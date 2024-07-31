@@ -1,0 +1,14 @@
+{
+  "name": "telegram-ton-app",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@ton-client/core": "^1.11.0",
+    "@ton-client/lib-node": "^1.11.0",
+    "node-fetch": "^2.6.1",
+    "telegraf": "^3.38.0"
+  }
+}
